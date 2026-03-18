@@ -1,2 +1,0 @@
-branch ClaudeLandingPage
-branch feature/mintlifyPage
